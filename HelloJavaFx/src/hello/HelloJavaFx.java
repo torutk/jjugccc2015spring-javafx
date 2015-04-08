@@ -21,8 +21,9 @@ public class HelloJavaFx extends Application {
         Label label = new Label("Hello, JavaFX world.");
         root.getChildren().add(label);
         
-        Scene scene = new Scene(root);
+        Scene scene = new Scene(root, 320, 200);
         stage.setScene(scene);
+        stage.setTitle("HelloJavaFx");
         stage.show();
     }
     
