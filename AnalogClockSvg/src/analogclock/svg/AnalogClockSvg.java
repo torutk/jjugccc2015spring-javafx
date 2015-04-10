@@ -18,6 +18,7 @@ import javafx.scene.paint.RadialGradient;
 import javafx.scene.paint.Stop;
 import javafx.scene.shape.SVGPath;
 import javafx.stage.Stage;
+import javafx.stage.StageStyle;
 import javafx.util.Duration;
 
 /**
@@ -47,7 +48,8 @@ public class AnalogClockSvg extends Application {
                 clockDial, hourHand, minuteHand, secondHand, centerPoint
         );
         
-        Scene scene = new Scene(root);
+        Scene scene = new Scene(root, Color.TRANSPARENT);
+        stage.initStyle(StageStyle.TRANSPARENT);
         stage.setScene(scene);
         stage.show();
     }
