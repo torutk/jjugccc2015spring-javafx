@@ -7,7 +7,7 @@ https://github.com/torutk/analogclock
 
 Related documents
 
-* "Presentation slides (Japanese)":http://www.slideshare.net/torutk/java-fxjjug-ccc-2015-spring-g7
-* "Java FX and an analog clock - Wiki (Japanese)":http://www.torutk.com/projects/swe/wiki/JavaFX%E3%81%A8%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88"
+* "Presentation slides - Japanese":http://www.slideshare.net/torutk/java-fxjjug-ccc-2015-spring-g7
+* "Java FX and an analog clock - Wiki - Japanese":http://www.torutk.com/projects/swe/wiki/JavaFX%E3%81%A8%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88
  
 
